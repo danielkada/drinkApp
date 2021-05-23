@@ -1,0 +1,14 @@
+com/drinkapp/ReactNativeFlipper.java
+ com.drinkapp.ReactNativeFlipper
+ com.drinkapp.ReactNativeFlipper$1
+ com.drinkapp.ReactNativeFlipper$2
+ com.drinkapp.ReactNativeFlipper$2$1
+com/drinkapp/BuildConfig.java
+ com.drinkapp.BuildConfig
+com/drinkapp/MainApplication.java
+ com.drinkapp.MainApplication
+ com.drinkapp.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/drinkapp/MainActivity.java
+ com.drinkapp.MainActivity
